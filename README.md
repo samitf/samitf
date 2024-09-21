@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Samit
 - 👀 I’m interested in Machine Learning and Frontend Projects
-- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me ? You can mail me at samitfernandes019@gmail.com Or You can dm me on Insta @samitf_ 
 
 
