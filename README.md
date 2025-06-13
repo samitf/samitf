@@ -41,6 +41,7 @@
 | Project | Description |
 |--------|-------------|
 | [Legal-Case-Summarization](https://github.com/samitf/legal-case-summarization) | Summarize your long legal documents |
+| [ResumAI](https://github.com/samitf/ResumAI) | AI-powered Resume assistant |
 | [Sentiment Analysis For Marathi Language](https://github.com/samitf/My-Projects/tree/main/NLP/MarathiSentimentAnalysis) | Analyze sentiments for your text |
 | [Movie Recommendation System](https://github.com/samitf/My-Projects/tree/main/ML/MovieRecommendationSystem) | Get movies for your taste |
 
