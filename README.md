@@ -23,7 +23,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samitf&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samitf&theme=radical" height="180" alt="GitHub Streak" />
 </p>
 
 ---
